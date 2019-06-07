@@ -1,0 +1,77 @@
+.header{
+	height: 150px;
+	background: black;
+}
+.banner{
+	background: pink;
+	height: 600px;
+	background-image: url(bg.jpg);
+	background-size: 100% 100%;
+}
+.img{
+	margin-left: 100px;
+	margin-top: 100px;
+}
+.h1{
+	color: white;
+	margin-left: 100px;
+
+}
+.button{
+	background: #1E90FF;
+	border-radius: 5px; 
+	 margin-left:100px;
+	 color: white;
+	 height: 50px;
+	 font-weight: center;
+}
+.flex{
+	display: flex;
+}
+.game{
+	height: 500px;
+	background: #00008B;
+}
+.game h1{
+	color: white;
+	margin-top:50px; 
+	text-align:center;
+
+}
+ .p1{
+ 	color:grey;
+ 	text-align: center;
+ 	padding-bottom:100px;
+ }
+ .img1{
+ 	margin-left: 5px;
+ 	width: 190px; 
+ }
+ .hj{
+ 	height:320px;
+ 	width: 1150px; 
+ 	margin-top:-50px; 
+ 	margin-left: 45px; 
+ }
+ .futer{
+ 	height: 350px;
+	background-image: url(job.jpg);
+ 	background-size: 100% 100%;
+}
+.futer h1{
+	color: white;
+	margin-left: 100px;
+	text-align: left;
+}
+.ehwrkgliwug{
+	color: white;
+	border-radius: 5px;
+	background:#1E90FF;
+	height: 50px;
+	font-weight: center;
+	width: 100px;
+	margin-left: 100px;
+}
+.futer h2{
+	color: white;
+}
